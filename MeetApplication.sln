@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetApplication", "MeetApplication\MeetApplication.csproj", "{A59D29B6-9EE2-4BBC-87B4-FAA81AF83FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTests", "AppTests\AppTests.csproj", "{5F2A5105-D670-4A10-B705-8479D4235846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59D29B6-9EE2-4BBC-87B4-FAA81AF83FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59D29B6-9EE2-4BBC-87B4-FAA81AF83FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59D29B6-9EE2-4BBC-87B4-FAA81AF83FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59D29B6-9EE2-4BBC-87B4-FAA81AF83FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2A5105-D670-4A10-B705-8479D4235846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2A5105-D670-4A10-B705-8479D4235846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2A5105-D670-4A10-B705-8479D4235846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2A5105-D670-4A10-B705-8479D4235846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B330A7DE-132E-4F48-BFCC-67FD777814D7}
+	EndGlobalSection
+EndGlobal
